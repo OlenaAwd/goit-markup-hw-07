@@ -439,13 +439,13 @@ header {
   display: none;
 }
 
-.modal__agreement-checkbox:checked + .agreement-text::before {
+.modal__agreement-checkbox:checked ~ .agreement-text::before {
   display: block;
   background-color: var(--accent-color);
   fill: #ffffff;
 }
 
-.modal__agreement-checkbox:checked use {
+.modal__agreement-checkbox:checked ~ use {
   display: block;
   color: #000000;
   border: none;
