@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,YAAY,AAAC,CACX,gBAAgB,CDDE,IAAK,CCExB,AFGD,AAAA,IAAI,AAAC,CACH,YAAY,CAHN,KAAK,CAIZ",
+    "sources": [
+        "../saas/main.scss",
+        "../saas/utils/_vars.scss",
+        "../saas/components/_page-header.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}

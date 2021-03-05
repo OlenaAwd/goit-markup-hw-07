@@ -568,7 +568,8 @@ header {
 .work__item {
   display: flex;
 }
-.work__work-item:not(:last-child) {
+
+.work__item:not(:last-child) {
   margin-right: 30px;
 }
 
